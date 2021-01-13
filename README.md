@@ -420,6 +420,16 @@ ___
 ____
 ## Вставка изображения
 ```
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+{username} — ваш ник на ГитХабе;
+{repository} — репозиторий где хранятся картинки;
+{branch} — ветка репозитория;
+{path} — путь к месту нахождения картинки.
+
+Пример:
 ![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
 ```
 ![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
